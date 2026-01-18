@@ -3,6 +3,5 @@
 
 
 
-![phighting-phighting-bean](https://github.com/user-attachments/assets/bc5d3822-4c57-46fd-9c27-d25527fe9c4d)
 
 
