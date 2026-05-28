@@ -17,8 +17,6 @@
 <p align="center"> 
   <p align="center">
 <a 
-<sub>${\text{\color{#f7f0d6}• Always free to \color{#cdf58a}int \color{#f7f0d6}and \color{#a8c841}c+h  
-  
 <p align="center"> 
   <p align="center">
 <a 
