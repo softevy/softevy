@@ -10,7 +10,7 @@
 <p align="center"> 
   <p align="center">
 <a 
-<sub>${\text{\color{#e1e0c2}•  16 y.oㅤ ✧  }}$ <br>
+<sub>${\text{\color{#e1e0c2}  16 y.oㅤ ✧  }}$ <br>
 <p align="center"> 
   <p align="center">
 <a 
