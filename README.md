@@ -10,7 +10,7 @@
 <p align="center"> 
   <p align="center">
 <a 
-<sub>${\text{\color{#e1e0c2}•  16 y.oㅤ ੭୧  }}$ <br>
+<sub>${\text{\color{#e1e0c2}•  16 y.oㅤ ✧  }}$ <br>
 <p align="center"> 
   <p align="center">
 <a 
@@ -22,8 +22,7 @@
 <p align="center"> 
   <p align="center">
 <a 
-  <sub>${\text{\color{#6b7f42}੭୧    .♪      ㅉ    \color{#efe576}  。 ‟   ┄   \color{#76855a} ✦✧    . }}$ <br>
-<p align="center">
+ 
 ㅤㅤㅤ<img width="1474" height="854" alt="Снимок экрана 2026-05-15 005412" src="https://github.com/user-attachments/assets/50b18b55-cf82-4113-a2f9-20478aaa4c13" />
 
 <p align="center"> 
