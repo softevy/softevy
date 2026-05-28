@@ -1,7 +1,4 @@
 
-ㅤ<p align="center">
-<img align="middle" src="https://file.garden/agnAEGD_FSxRuirH/photo_2026-05-17_17-32-32.jpg" alt="image" width="1000" />
-</p>
 
 
 
@@ -9,11 +6,11 @@
 <p align="center"> 
   <p align="center">
 <a 
-<sub>${\text{\color{#edf385} ۶ৎ Softevy \color{#90c852}(Evy) / \color{#edf385}Eva  \color{#edf385}♡}}$ <br>
+<sub>${\text{\color{#fff1a3} ۶ৎ Softevy \color{#8fb43f} Evy / \color{#d1d26d}Eva  \color{#d1d26d}♡}}$ <br>
 <p align="center"> 
   <p align="center">
 <a 
-<sub>${\text{\color{#e1e0c2}•  16 y.oㅤ ۶ৎ  }}$ <br>
+<sub>${\text{\color{#e1e0c2}•  16 y.oㅤ ੭୧  }}$ <br>
 <p align="center"> 
   <p align="center">
 <a 
