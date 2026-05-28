@@ -29,7 +29,7 @@
 <a 
   <sub>${\text{\color{#6b7f42}੭୧    .♪      ㅉ    \color{#efe576}  。 ‟   ┄   \color{#76855a} ✦✧    . }}$ <br>
 <p align="center">
-ㅤㅤㅤ<img align="middle" src="![photo_2026-04-05_05-42-18](https://github.com/user-attachments/assets/354fcaf0-6e8a-49fb-95d1-81fda077f08c)" alt="image" width="1000" height="auto" />
+ㅤㅤㅤ<img align="middle" src="[photo_2026-04-05_05-42-18](https://github.com/user-attachments/assets/354fcaf0-6e8a-49fb-95d1-81fda077f08c)" alt="image" width="1000" height="auto" />
 </p>
 
 <p align="center"> 
