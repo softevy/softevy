@@ -3,13 +3,13 @@
 <img align="middle" src="https://file.garden/agnAEGD_FSxRuirH/photo_2026-05-17_17-32-32.jpg" alt="image" width="1000" />
 </p>
 
-###      •  (∪.∪ )...zzz
+
 
 
 <p align="center"> 
   <p align="center">
 <a 
-<sub>${\text{\color{#edf385} ۶ৎ Softevy \color{#90c852}(Evy) / \color{#edf385}Eva  \color{#fd6d53}♡}}$ <br>
+<sub>${\text{\color{#edf385} ۶ৎ Softevy \color{#90c852}(Evy) / \color{#edf385}Eva  \color{#edf385}♡}}$ <br>
 <p align="center"> 
   <p align="center">
 <a 
@@ -20,7 +20,7 @@
 <p align="center"> 
   <p align="center">
 <a 
-<sub>${\text{\color{#f7f0d6} • multi fandom \color{#f7f0d6} and \color{#f7f0d6} multi shipper  𝜗℘ }}$ <br>
+
 
 <p align="center"> 
   <p align="center">
