@@ -28,6 +28,3 @@
 <p align="center"> 
   <p align="center">
 <a 
-
-  <sub>${\text{\color{#b6c568}ILOVEEVBO}}$ <br>
-   <sub>${\text{\color{#b6c568}I'm instantly \color{#7c923d}your biggest EVBOBOBOBO ⟢    ‍‍⸝⸝}}$
