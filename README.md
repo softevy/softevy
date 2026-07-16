@@ -23,7 +23,8 @@
   <p align="center">
 <a 
  
-ㅤ<img width="1173" height="620" alt="Снимок экрана 2026-06-30 012659" src="https://github.com/user-attachments/assets/8706cfd8-444e-425c-81e5-67b680fe4eac" />
+<img width="1453" height="919" alt="Снимок экрана 2026-07-15 214700" src="https://github.com/user-attachments/assets/982b3e45-d4b2-4019-9a70-747ca85b4d67" />
+
 
 
 <p align="center"> 
